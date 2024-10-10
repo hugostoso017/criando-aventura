@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(75, 50, 105);
+    color: white;
+    font-family: "Anton", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
